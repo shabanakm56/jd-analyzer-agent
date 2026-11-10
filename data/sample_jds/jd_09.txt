@@ -1,0 +1,50 @@
+Full job description
+AI Engineer
+Experience
+
+2 to 5 Years
+
+Salary
+
+3LPA to 7LPA
+
+Work Location
+
+Erode, Tamilnadu
+
+Job Category
+
+Computer Vision
+
+Work Type
+
+Full-Time, Permanent
+
+Job Summary
+We are seeking a skilled and experienced AR/VR Developer to build AI Products. The ideal candidate will have a deep understanding of augmented reality, 3D modeling, and computer vision to create a realistic and immersive try-on experience for our customers. You will be responsible for the full development lifecycle, from concept to deployment, working to integrate our product catalog with the virtual try-on feature.
+
+Roles and Responsibilities
+Develop and maintain AI models using ComfyUI. VTON
+Work with Stable Diffusion for image generation tasks.
+Design, develop, and maintain our AI Products for mobile and/or web platforms.
+Implement augmented reality functionality using frameworks such as ARKit and ARCore.
+Collaborate with designers and 3D artists to create and optimize photorealistic 3D product models for real-time rendering.
+Utilize computer vision and machine learning techniques for accurate facial and body tracking to ensure precise placement of virtual products.
+Integrate the virtual try-on feature with our existing e-commerce platform and product catalog APIs.
+Optimize the application for performance, quality, and responsiveness on various devices.
+Conduct thorough testing and troubleshooting to ensure a seamless and bug-free user experience.
+Stay up-to-date with the latest AR/VR technologies and industry trends to continuously improve our product.
+Required Skills and Qualifications
+Proven experience developing AR/VR applications, preferably with a focus on virtual try-on or similar e-commerce applications.
+Proficiency in programming languages such as Python, C# or C++.
+Strong experience with game engines like Unity3D or Unreal Engine.
+Solid understanding of 3D graphics, physics, and rendering principles.
+Experience with computer vision libraries and machine learning frameworks.
+Demonstrated ability to create and optimize 3D models and assets.
+A portfolio showcasing relevant AR/VR projects.
+Experience with ComfyUI and Stable Diffusion.
+Strong skills in prompt engineering.
+Preferred Qualifications
+Experience with both iOS and Android mobile development.
+Knowledge of WebAR.
+Experience with generative AI for creating realistic product visualizations.

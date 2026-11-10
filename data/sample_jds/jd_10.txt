@@ -1,0 +1,17 @@
+
+Job Summary
+
+We are looking for an Associate Engineer – Frontend with foundational Node.js exposure, having 1–2 years of hands-on experience in building user-facing web applications and supporting backend services. The role focuses on developing high-quality, maintainable frontend components using modern JavaScript frameworks such as React and Next.js, along with contributing to server-side code using Node.js under guidance. The ideal candidate demonstrates strong fundamentals in HTML, CSS, and JavaScript, understands component-based UI development, and has basic awareness of backend integration patterns.
+
+Responsibilities
+
+Roles and Responsibilities 
+
+Develop and maintain frontend features using React and, where applicable, Next.js.
+Translate UI designs, wireframes, and Figma specifications into responsive and accessible interfaces.
+Contribute to backend development tasks using Node.js under guidance.
+Integrate frontend components with backend services and APIs.
+Write clean, maintainable code with attention to performance and reliability.
+Develop and maintain basic unit tests for frontend and backend components.
+Participate in code reviews, team discussions, and agile ceremonies.
+Continuously improve technical skills across frontend and Node.js backend technologies.

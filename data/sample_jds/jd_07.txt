@@ -1,0 +1,23 @@
+Position: AS400 Developer [Insurance Domain]
+
+Location: Bangalore
+
+Experience: 0-1 yrs.
+
+Skill Required: Java, Node js
+
+Responsibilities:
+
+Strong hands-on experience in IBM AS400 iSeries platform and RPGLE programming is a
+must
+Experienced in Integrated Language Environment (ILE)
+Experienced in creating and debugging RPGLE/CLLE/RPG400/CL400/SQLRPGLE/OPM
+programs
+Ability to create Sub-procedures, Subroutines and Service Programs
+Knowledge of Batch mode debugging
+Knowledge of SEU, RLU, PDM, DFU and Spool files
+Knowledge of Binding Directory, Binder Language
+Knowledge of System queue and Printer queue
+Experienced in iSeries Navigator and Integrated File System (IFS)
+Knowledge of Web Services, XML, HTML, and JavaScript will add advantage.
+

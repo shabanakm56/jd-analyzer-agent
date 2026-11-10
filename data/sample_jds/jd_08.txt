@@ -1,0 +1,44 @@
+Full job description
+Job Summary
+
+We are looking for a motivated and technically strong Quality Engineer – Test Automation to join our Quality Engineering team. In this role, you will help ensure the quality, reliability, and performance of applications by designing effective testing strategies and building scalable automated test solutions.
+You will work closely with developers, product teams, business partners, and other cross-functional teams to deliver high-quality solutions. The ideal candidate has hands-on experience with Python and Selenium, a strong understanding of software testing practices, and an enthusiasm for learning new technologies and modern Quality Engineering approaches.
+Job Description
+
+
+Experience within the Retail or Supply Chain domain will be an added advantage.
+Review business and technical requirements and develop comprehensive test scenarios, test cases, and end-to-end validation strategies.
+Design, develop, execute, and maintain automated test scripts using Python and Selenium.
+Perform functional, integration, regression, system, and acceptance testing to validate application quality.
+Collaborate with developers, product teams, integration teams, and business stakeholders to identify quality risks and resolve issues throughout the development lifecycle.
+Apply appropriate testing methodologies, strategies, and best practices to improve test effectiveness and identify defects earlier in the development process.
+Contribute to continuous improvement of automation frameworks, testing processes, and Quality Engineering practices.
+Support the timely delivery of features by ensuring testing activities are aligned with project priorities and quality expectations.
+Work effectively with geographically distributed and global teams, communicating test results, risks, issues, and dependencies clearly.
+
+Job Responsibilities:
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related field, or equivalent relevant experience.
+Experience in software testing, Quality Engineering, or test automation.
+Strong hands-on programming or scripting experience using Python.
+Hands-on experience with Selenium or similar UI automation technologies.
+Experience creating test scenarios, test cases, and automated test scripts.
+Good understanding of software testing methodologies, testing strategies, and the Software Development Life Cycle (SDLC).
+Experience with functional, system, integration, regression, and acceptance testing.
+Strong analytical, troubleshooting, and problem-solving skills.
+Excellent written and verbal communication skills.
+Ability to collaborate effectively within cross-functional and global teams.
+
+Preferred Qualifications
+
+
+Knowledge or experience in the Retail and/or Supply Chain domain.
+Experience building or contributing to reusable test automation frameworks.
+Experience with API and integration testing.
+Exposure to CI/CD pipelines and incorporating automated testing into the software delivery process.
+Experience working within Agile/Scrum development environments.
+Familiarity with source-control and defect-management tools.
+Strong interest in learning and adopting emerging automation and Quality Engineering technologies.
+
+
+
