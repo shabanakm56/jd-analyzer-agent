@@ -1,0 +1,39 @@
+Job description
+We are hiring an Artificial Intelligence Engineer on behalf of our client. This role involves building intelligent systems and AI-powered solutions that solve real business problems, from machine learning models to generative AI applications. Its a great opportunity for someone passionate about AI who enjoys experimenting with new technologies and turning ideas into working products.
+
+
+Role & responsibilities
+
+Design, train, and evaluate machine learning and deep learning models
+Build AI-powered applications using LLMs, NLP, and computer vision
+Develop chatbots, AI agents, and automation solutions
+Build RAG (Retrieval-Augmented Generation) pipelines using vector databases and embeddings
+Collect, clean, and prepare datasets for model training
+Work with Generative AI tools and APIs (OpenAI, Anthropic, Hugging Face)
+Apply prompt engineering to improve model accuracy and reliability
+Deploy AI models into production using APIs and cloud platforms
+Monitor model performance and improve accuracy, speed, and cost
+Collaborate with data scientists, engineers, and product teams to define AI use cases
+Document models, experiments, and results clearly
+Stay updated on the latest AI research, tools, and trends
+
+Preferred candidate profile
+
+Bachelors/Master’s degree in Computer Science, AI, Data Science, Mathematics, or related field
+0 to 2 years of experience in AI/ML or related role (internships and projects count)
+Strong programming skills in Python
+Good understanding of machine learning, deep learning, and statistics
+Hands-on experience with TensorFlow, PyTorch, or Scikit-learn
+Familiarity with NLP, LLMs, or computer vision
+Role: Automation Developer
+Industry Type: Recruitment / Staffing
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Artificial IntelligenceMachine LearningGenerative AI
+Deep LearningLarge Language Models (LLM)Prompt EngineeringRAGNLPComputer VisionPythonTensorFlowPyTorchScikit-learnLangChainLlamaIndexHugging FaceOpenAI APIAnthropic APIVector DatabasesPineconeFAISS

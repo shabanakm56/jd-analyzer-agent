@@ -1,0 +1,24 @@
+About the job
+FLEX Life Media publishes long-form interviews with founders, investors and family-business leaders across Asia, Europe, the Middle East and the US.We’re looking for a hands-on engineer to help us build and scale our digital platform.
+What you’ll do
+Develop and maintain flexlife.media (WordPress) and its integrations
+Build automations connecting our website, newsletter, forms and social channels
+Improve site performance, SEO and analytics
+Prototype AI-powered tools for our editorial workflow
+
+What we’re looking for
+3+ years of experience in web development (JavaScript/TypeScript, PHP or Python)
+Experience with WordPress, APIs and no-code/automation tools (Zapier, Make, n8n)
+Strong eye for detail and clean, premium design
+Independent, reliable, comfortable working across time zones
+Fluent English
+
+Nice to have
+Experience with media, publishing or content platforms
+Familiarity with LLM APIs and AI tooling
+
+Why FLEX
+Remote and flexible
+Direct work with the founder
+A growing international brand with access to an exceptional network of leaders
+To apply, send your CV.
