@@ -1,0 +1,3 @@
+file,role_type,fit_score,matching_skills,missing_skills
+jd_01.txt,AI Engineering Intern,6,"Python, REST APIs, JSON, SQL, Git","LLM APIs, LLM Agent SDKs, Prompt Engineering, LangChain / LlamaIndex / CrewAI, LLM Observability Platforms, Model Context Protocol (MCP)"
+jd_02.txt,QA Automation Engineer,8.5,"Test Automation, Selenium, Python, JavaScript, Functional Testing, Defect Reporting, Git, REST APIs","Regression Testing, CI/CD Pipelines"

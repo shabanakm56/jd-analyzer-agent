@@ -1,0 +1,25 @@
+
+
+About the role
+Are you excited to engineer real-world, autonomous AI Agents? We are revolutionizing our operations by transitioning from traditional rules-based automation to intelligent, Agentic Workflows powered by industry leading Large Language Models.
+As an engineering intern, you will work directly with our engineering and business teams to architect, develop, and deploy autonomous AI Agents that will solve unstructured and complex enterprise problems.
+
+Role Responsibilities:
+Hands-On Development: Assist in building multi-step AI Agents using Python, LLM APIs, and LLM Agent SDKs.
+API Integration: Write and test API Connectors that will allow agents to interact securely with other databases.
+Prompt and Context Engineering: Draft system prompts, create SKILL.MD instruction files, and experiment with context-window optimization to ensure agents reason correctly.
+Evaluation and Testing: You will deploy AI Agents in Shadow Mode, analyze the reasoning logs, and debug instances of hallucinations or logic failures.
+Collaboration: Participate in logic-mapping sessions with Subject Matter Experts to translate human operational logic into agentic workflows.
+
+Role Requirements:
+Education: Final year / recently graduated students with a B.Tech./B.E. (or equivalent) degree in Computer Science, Data Science, Artificial Intelligence, Machine Learning or related fields will be given strong preference.
+Technical Proficiency: Strong foundational skills programming using Python. Able to write scripts, parse JSON, and work with REST APIs.
+AI Curiosity: You have a genuine curiosity in the Large Language Model (LLM). You understand the basics of LLMs, prompting and excited about the usage of AI Tools.
+Problem Solver: You enjoy breaking down complex problems into logical, executable steps.
+Eager to Learn: You are comfortable with rapidly learning new frameworks.
+
+Preferred (Nice-to-Have):
+Built a personal project using Anthropic API or Open AI or frameworks like LangChain, LlamaIndex, CrewAI.
+Experience with implementing a LLM observability platform (Langfuse, LangSmith, etc).
+Familiarity with basic SQL and version control (Git).
+Experience with Model Context Protocol (MCP).

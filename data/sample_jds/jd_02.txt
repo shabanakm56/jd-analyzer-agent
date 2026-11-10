@@ -1,0 +1,45 @@
+About the job
+Build and maintain the automated regression suites behind our clients' release cycles, so testing that used to take days runs itself.
+
+Location Chennai, Tamil Nadu
+
+Type Full time
+
+Posted 29 July 2026
+
+About The Role
+
+You will build the automation that lets a client ship. On our travel-platform programme, regression that used to consume days of manual effort now runs itself and the team releases several times a week — that shift is the job.
+
+What you will do
+
+Write and maintain automated functional and regression tests for web applications.
+Convert existing manual test cases into reliable automated coverage, and retire the ones that no longer earn their place.
+Keep suites trustworthy: investigate failures, fix flakiness, and keep run times short enough to stay in the release path.
+Integrate test runs into CI so results reach the team on every build.
+Work with client engineering teams on defects — reproduce, isolate and report clearly enough to act on.
+
+What you will bring
+
+Hands-on experience automating tests for web applications with a modern framework such as Playwright, Selenium, Cypress or similar.
+Working knowledge of at least one programming language used for test automation — JavaScript/TypeScript, Python, Java or C#.
+An understanding of test design: what to automate, what to leave manual, and why.
+Familiarity with version control, CI pipelines and defect tracking.
+A degree in engineering, computer science or a related field, or equivalent hands-on experience.
+Helpful, not required: API testing, performance testing, or accessibility testing experience.
+
+Working arrangements
+
+Full time, on site at the delivery centre listed above. Standard working hours, with shift cover arranged within the team where a client programme runs to a different timezone.
+
+About DesiCrew
+
+DesiCrew has run high-stakes AI and enterprise operations from small-town and rural India since 2007. More than 2,000 people work across our delivery centres, 68% of them women — roughly twice the industry average — and 49% the sole earner in their family. We are ISO 9001, ISO 27001 and ISO 42001 certified and a Great Place to Work.
+
+We hire for aptitude and train for the rest. DTOUCH, our in-house learning platform, has delivered more than 5,000 certifications and 1,200 AI-certified professionals, and training continues well past onboarding.
+
+Send us your CV and tell us why this role. We read every application.
+
+Apply for this role
+
+Or see every open role on the careers page.
