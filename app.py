@@ -48,5 +48,4 @@ if st.button("Analyze", type="primary"):
 
     with st.expander("Required skills"):
         st.write(result.get("required_skills", []))
-    with st.expander("Raw JSON"):
-        st.json(result)
+    

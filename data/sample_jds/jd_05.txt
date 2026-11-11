@@ -1,0 +1,28 @@
+Role Description
+We are seeking a motivated and detail-oriented Software Engineer to design, develop, test, and maintain software applications that support business operations and deliver reliable digital solutions. The role involves translating technical requirements into functional software, improving existing systems, and collaborating with cross-functional teams to build scalable, secure, and maintainable applications.The successful candidate will contribute throughout the software development lifecycle, from understanding requirements and designing solutions to implementation, testing, deployment, and ongoing maintenance. A strong problem-solving mindset, attention to code quality, and the ability to work collaboratively are essential for delivering effective software solutions.Key Responsibilities
+Design, develop, and maintain software applications, services, and system components in line with project requirements and technical specifications.
+Write clean, efficient, reusable, and well-documented code that follows established development standards and best practices.
+Analyze business and technical requirements and translate them into practical software solutions.
+Collaborate with product managers, designers, quality assurance specialists, and other engineers to plan and deliver software features.
+Develop and maintain application interfaces, backend services, APIs, database integrations, and other system components as required.
+Conduct software testing, debugging, code reviews, and performance analysis to identify and resolve technical issues.
+Troubleshoot application errors, investigate system defects, and implement effective solutions to improve reliability and functionality.
+Support software deployment, version control, system updates, and ongoing application maintenance.
+Review existing code and architecture to identify opportunities for optimization, improved performance, and greater scalability.
+Apply appropriate security practices and data protection principles throughout the software development process.
+Prepare technical documentation, development notes, system specifications, and other relevant project records.
+Participate in technical discussions, development planning, and continuous improvement initiatives.
+Keep up to date with programming tools, development frameworks, engineering practices, and emerging technologies relevant to the role.
+Qualifications
+A diploma or bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field is preferred.
+Solid understanding of programming fundamentals, data structures, algorithms, object-oriented programming, and software development principles.
+Familiarity with one or more programming languages, such as Java, Python, JavaScript, C#, C++, or Go.
+Understanding of databases, SQL, API development, system integration, and application architecture.
+Familiarity with version control systems such as Git and collaborative software development workflows.
+Knowledge of software testing, debugging techniques, code quality practices, and application performance optimization.
+Understanding of web technologies, cloud platforms, development frameworks, or CI/CD processes is an advantage.
+Strong analytical and problem-solving skills, with the ability to investigate technical issues and develop practical solutions.
+Good communication and collaboration skills for working with technical and non-technical stakeholders.
+Ability to organize tasks, manage priorities, and contribute to projects with clear technical objectives.
+A commitment to writing maintainable code, documenting solutions, and continuously improving software quality.
+Professional integrity, adaptability, and a proactive approach to resolving challenges and delivering dependable software solutions.
